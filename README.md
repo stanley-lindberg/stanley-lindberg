@@ -1,16 +1,19 @@
-## Hi there 👋
+# Greetings 🖖
 
-<!--
-**stanley-lindberg/stanley-lindberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **stanley-lindberg**, a startup founder.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Performance matters
+- 🤔 Exploring new technologies
+- 🛠️ Build small, ship often
+- 🎯 Goal: ship something useful every week
+- 🐛 Bug hunter by night
+
+## Tech
+
+`Ansible` `Docker` `Redis` `SQLite` `Rust`
+
+---
+
+_Vim user._
